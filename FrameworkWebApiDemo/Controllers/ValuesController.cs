@@ -35,7 +35,7 @@ namespace FrameworkWebApiDemo.Controllers
 
         /// <summary>
         /// Good
-        /// /api/Values/Bad?input=1
+        /// /api/Values/Good?input=1
         /// </summary>
         /// <param name="input"></param>
         /// <returns></returns>
