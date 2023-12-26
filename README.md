@@ -1,6 +1,6 @@
 # AsynchronousDemo
 
-参考自：
+ref：
 
 
 https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md
